@@ -1,0 +1,7 @@
+smolagents
+duckduckgo-search
+smolagents[litellm]
+markdownify
+flask
+selenium
+anthropic
